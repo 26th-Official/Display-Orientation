@@ -15,7 +15,9 @@ Display Orientation Modifier with Hotkey for Windows. Linux and Mac
 
 ### If you want the script on Startup,
 
-#### For Windows - Place the "Display-Orientation Startup.pyw" in C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ 
+#### For Windows 
+
+- Place the "Display-Orientation Startup.pyw" in C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ 
 
 ---------------------------------------------------------------------------------------------------
 
