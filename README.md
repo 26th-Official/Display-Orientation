@@ -21,6 +21,7 @@ Display Orientation Modifier with Hotkey for Windows. Linux and Mac
 - ctrl+alt+right (portrait)
 - ctrl+alt+down (landscape)
 - ctrl+alt+left (portrait_flipped)
+- ctrl+alt+esc (Exit the Script)
 
 ---------------------------------------------------------------------------------------------------
 
