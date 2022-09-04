@@ -21,7 +21,6 @@ Display Orientation Modifier with Hotkey for Windows. Linux and Mac
 - ctrl+alt+right (portrait)
 - ctrl+alt+down (landscape)
 - ctrl+alt+left (portrait_flipped)
-- ctrl+alt+esc (Exit the Script)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -29,7 +28,8 @@ Display Orientation Modifier with Hotkey for Windows. Linux and Mac
 
 #### For Windows:-
 
-- Place the "Display-Orientation Startup.pyw" in C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ 
+- Create a Shortcut for "Display-Orientation.exe" which is in the "Starup Folder" 
+in C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ 
 
 ---------------------------------------------------------------------------------------------------
 
