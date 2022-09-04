@@ -28,8 +28,8 @@ Display Orientation Modifier with Hotkey for Windows. Linux and Mac
 
 #### For Windows:-
 
-- Create a Shortcut for "Display-Orientation.exe" which is in the "Starup Folder" 
-in C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ 
+- Create a new String Value in the Registry Editor in path (Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run)
+and add the path to "Display-Orientation.exe" which is in the "Starup Folder" as Value
 
 ---------------------------------------------------------------------------------------------------
 
